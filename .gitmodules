@@ -1,0 +1,3 @@
+[submodule "Swiftest"]
+	path = Swiftest
+	url = git@github.com:Swiftest/Swiftest.git
